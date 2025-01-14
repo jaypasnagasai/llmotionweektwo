@@ -1,7 +1,7 @@
 # LLMotion: Week 2
 
 ## AGENDA
-To find the pose data and the corresponding text descriptions for a motion in the AMASS DATASET
+To find the `pose_data` and `text_data` for a motion in the AMASS DATASET
 
 ## MASTER DATASET
 The dataset the motion data has been extracted from 
@@ -18,7 +18,7 @@ The motion used to extract the left knee
 - Folder: s008
   
 - Poses_Data: [poses.npy](poses.npy)
-- Text_Data: [example.npz](text.txt)
+- `text_data`: [example.npz](text.txt)
 - HumanML3D: 007568
   
 - Gender: Male
@@ -88,7 +88,7 @@ According to the [Meshcapade Wiki](https://github.com/Meshcapade/wiki/blob/main/
 ## NOTE
 
 - The text descriptions are is form the [HumanML3D](https://github.com/EricGuo5513/HumanML3D/tree/main/HumanML3D) dataset
-- The mapping of the pose_data to the text_data is through using the [index](https://github.com/EricGuo5513/HumanML3D/blob/main/index.csv) of the dataset
+- The mapping of the `pose_data` to the `text_data` is through using the [index](https://github.com/EricGuo5513/HumanML3D/blob/main/index.csv) of the dataset
 
 ## IMPLEMENTATION
 
@@ -103,9 +103,9 @@ According to the [Meshcapade Wiki](https://github.com/Meshcapade/wiki/blob/main/
 
 ## PROGRESS
 
-- Since it is possible to map pose_data and text_data to one file, it is replicable to the dataset.
-- While I have used a more rudimentary approach to extract pose_data, the [HumanML3D](https://github.com/EricGuo5513/HumanML3D/tree/main/HumanML3D) repo has a Jupyter Notebook which can do this more efficiently.
-- The next step is to able to set up the pose_data from all the datasets
+- Since it is possible to map `pose_data` and `text_data` to one file, it is replicable to the dataset.
+- While I have used a more rudimentary approach to extract `pose_data`, the [HumanML3D](https://github.com/EricGuo5513/HumanML3D/tree/main/HumanML3D) repo has a Jupyter Notebook which can do this more efficiently.
+- The next step is to able to set up the `pose_data` from all the datasets
 
 ## CHALLENGES
 
@@ -115,4 +115,4 @@ According to the [Meshcapade Wiki](https://github.com/Meshcapade/wiki/blob/main/
 
 ## CONCLUSION
 
-A major part of this week was about mapping the pose_data to the text_data. I started out to do for the entire ACCAD dataset, but due to the repetition of certain motions, I have decided to demonstrate the mapping with one example motion. The key aspect is to focus on the [challenges](#challenges) and work on them. Any feedback would be appreciated. Thank You!
+A major part of this week was about mapping the `pose_data` to the `text_data`. I started out to do for the entire ACCAD dataset, but due to the repetition of certain motions, I have decided to demonstrate the mapping with one example motion. The key aspect is to focus on the [challenges](#challenges) and work on them. Any feedback would be appreciated. Thank You!
