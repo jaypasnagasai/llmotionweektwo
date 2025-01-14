@@ -1,0 +1,278 @@
+source_path,start_frame,end_frame,new_name
+./pose_data/ACCAD/Female1Running_c3d/C19 -  run to hop to walk_poses.npy,0,85,000034.npy
+./pose_data/ACCAD/Female1General_c3d/A3 - Swing t2_poses.npy,0,163,000084.npy
+./pose_data/ACCAD/Male1General_c3d/General A9 -   Lie (forward)_poses.npy,0,48,000091.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E12 - backfist right_poses.npy,0,49,000168.npy
+./pose_data/ACCAD/Female1Walking_c3d/B5 - walk backwards_poses.npy,10,210,000178.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D15 - switch stance_poses.npy,0,61,000281.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G4 -spinning back kick_poses.npy,0,55,000339.npy
+./pose_data/ACCAD/Male2Running_c3d/C24 - quick sidestep left_poses.npy,0,41,000353.npy
+./pose_data/ACCAD/Male2Walking_c3d/B9 -  Walk turn left 90_poses.npy,0,101,000365.npy
+./pose_data/ACCAD/Male2General_c3d/A12- Crawl Backwards_poses.npy,27,227,000416.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G20 -  reverse spin cresent right_poses.npy,0,57,000427.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D3 - Conversation Gestures_poses.npy,7,207,000441.npy
+./pose_data/ACCAD/Female1Walking_c3d/B14 - walk turn right (135)_poses.npy,0,180,000463.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/male2 Subject Cal 2_poses.npy,0,44,000590.npy
+./pose_data/ACCAD/Male1General_c3d/General A4 - Look Around_poses.npy,172,319,000686.npy
+./pose_data/ACCAD/Male1General_c3d/General A9 -  Lie Down_poses.npy,1,201,000698.npy
+./pose_data/ACCAD/Male1General_c3d/General A1 - Stand_poses.npy,0,125,000928.npy
+./pose_data/ACCAD/Male2General_c3d/A10- Lie to crouch_poses.npy,0,95,001096.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G10-  roundhouse leading left_poses.npy,0,53,001111.npy
+./pose_data/ACCAD/Male2Running_c3d/C12 - run turn left 45_poses.npy,0,44,001183.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D3 - Conversation Gestures_poses.npy,347,547,001254.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G11-  roundhouse leading right_poses.npy,0,67,001271.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B21 - Put Down Box to walk_poses.npy,0,140,001289.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E13 - body cross left_poses.npy,0,39,001323.npy
+./pose_data/ACCAD/Female1Walking_c3d/B4 - stand to walk back_poses.npy,0,151,001454.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E6 - quick retreat_poses.npy,0,108,001516.npy
+./pose_data/ACCAD/Female1Walking_c3d/B19 - walk to pick up box_poses.npy,0,139,001533.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E15 - body jab right_poses.npy,0,35,001578.npy
+./pose_data/ACCAD/Female1Running_c3d/C7 -  run backwards_poses.npy,0,62,001605.npy
+./pose_data/ACCAD/Female1General_c3d/A7 - crouch_poses.npy,0,102,001625.npy
+./pose_data/ACCAD/Male2Running_c3d/C6 - stand to run backwards_poses.npy,0,117,001751.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B4 - Stand to Walk Back_poses.npy,18,218,001754.npy
+./pose_data/ACCAD/Female1Walking_c3d/B21 s2 - put down box to walk_poses.npy,6,206,001761.npy
+./pose_data/ACCAD/Female1General_c3d/A3 - Swing_poses.npy,94,291,001765.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E4 - quick advance_poses.npy,0,75,001774.npy
+./pose_data/ACCAD/Female1Walking_c3d/B2 - walk to stand t2_poses.npy,0,98,001828.npy
+./pose_data/ACCAD/Male2Running_c3d/C4 - run to walk a_poses.npy,0,77,001833.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G12-  cresent left_poses.npy,0,56,001840.npy
+./pose_data/ACCAD/Male2General_c3d/A12- Crawl Backwards_poses.npy,191,341,001852.npy
+./pose_data/ACCAD/Female1Walking_c3d/B22 - side step left_poses.npy,0,184,001891.npy
+./pose_data/ACCAD/Male1General_c3d/General A8 - Crouch to Lie Down_poses.npy,0,158,001934.npy
+./pose_data/ACCAD/Male2Running_c3d/C8 - run backwards to stand_poses.npy,0,81,001968.npy
+./pose_data/ACCAD/Male2General_c3d/A9- Lie_poses.npy,0,63,001975.npy
+./pose_data/ACCAD/Male1General_c3d/General A4 - Look Around_poses.npy,12,212,002008.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 1_poses.npy,1,201,002040.npy
+./pose_data/ACCAD/Female1General_c3d/A6 - lift box_poses.npy,0,168,002139.npy
+./pose_data/ACCAD/Female1Running_c3d/C13 -  run turn left (135)_poses.npy,0,58,002169.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G14-  roundhouse body left_poses.npy,0,55,002179.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D5 - ready to walk away_poses.npy,0,90,002224.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E3 -  cross left_poses.npy,0,66,002409.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D12 - ready to taunt two to ready_poses.npy,0,108,002468.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E8 - uppercut right_poses.npy,0,52,002606.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G5 -  back kick_poses.npy,0,46,002614.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G7 -  capoera_poses.npy,0,48,002708.npy
+./pose_data/ACCAD/Female1General_c3d/A15 - skip to stand_poses.npy,0,86,002711.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D10 - victory 2_poses.npy,2,202,002754.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D5 - Random Stuff 2_poses.npy,156,333,002804.npy
+./pose_data/ACCAD/Male2Running_c3d/C19 - run to jump to walk_poses.npy,0,71,002862.npy
+./pose_data/ACCAD/Male2General_c3d/A4- Look Around_poses.npy,5,205,002942.npy
+./pose_data/ACCAD/Male2Walking_c3d/B23 -  side step right_poses.npy,0,60,002956.npy
+./pose_data/ACCAD/Male1General_c3d/General A10 -  Lie Down to Crouch_poses.npy,0,151,003066.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G13-  cresent right_poses.npy,0,52,003243.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E11 - body hook right t2_poses.npy,0,49,003277.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E12 - block left low_poses.npy,0,116,003294.npy
+./pose_data/ACCAD/Male2General_c3d/A5- Pick up box_poses.npy,0,120,003347.npy
+./pose_data/ACCAD/Female1Running_c3d/C10 -  run backwards stop run forward_poses.npy,0,102,003572.npy
+./pose_data/ACCAD/Male2Running_c3d/C5 - walk to run_poses.npy,0,72,003658.npy
+./pose_data/ACCAD/Female1Running_c3d/C2 - Run to stand_poses.npy,0,107,003731.npy
+./pose_data/ACCAD/Female1Running_c3d/C11 -  run turn left (90)_poses.npy,0,47,003824.npy
+./pose_data/ACCAD/Female1Walking_c3d/B9 - walk turn left (90)_poses.npy,0,142,003952.npy
+./pose_data/ACCAD/Male1General_c3d/General A3 - Swing Arms While Stand_poses.npy,0,115,003954.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E14 - block right low_poses.npy,0,59,004187.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E7 - uppercut left_poses.npy,0,52,004241.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E17 - block middle high_poses.npy,0,51,004297.npy
+./pose_data/ACCAD/Male1Walking_c3d/Male1 Cal_poses.npy,0,60,004347.npy
+./pose_data/ACCAD/Female1Running_c3d/C9 -  run backwards turn run forward_poses.npy,0,46,004353.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G15-  roundhouse body right_poses.npy,0,59,004365.npy
+./pose_data/ACCAD/Male2General_c3d/A8- Crouch to Lie_poses.npy,0,115,004426.npy
+./pose_data/ACCAD/Female1Walking_c3d/B11 - walk turn left (135)_poses.npy,0,188,004456.npy
+./pose_data/ACCAD/Female1Running_c3d/C16 -  run turn right  (135)_poses.npy,0,47,004489.npy
+./pose_data/ACCAD/Female1General_c3d/A1 - Stand_poses.npy,0,60,004501.npy
+./pose_data/ACCAD/Male2Running_c3d/C4 - run to walk_poses.npy,0,77,004504.npy
+./pose_data/ACCAD/Male2Walking_c3d/B15 -  Walk turn around_poses.npy,0,151,004575.npy
+./pose_data/ACCAD/Male2Walking_c3d/B18 -  Walk to leap to walk t3_poses.npy,0,123,004596.npy
+./pose_data/ACCAD/Female1Walking_c3d/B3 - walk1_poses.npy,0,153,004652.npy
+./pose_data/ACCAD/Male2Walking_c3d/B10 -  Walk turn left 45_poses.npy,0,120,004653.npy
+./pose_data/ACCAD/Male1General_c3d/General A9 -   Lie (forward) t2_poses.npy,0,166,004692.npy
+./pose_data/ACCAD/Male2Running_c3d/C17 - run change direction_poses.npy,0,61,004719.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E18 - block middle low_poses.npy,0,60,004730.npy
+./pose_data/ACCAD/Female1General_c3d/A6- lift box t2_poses.npy,0,142,004747.npy
+./pose_data/ACCAD/Male2Running_c3d/C3 - run_poses.npy,0,55,004786.npy
+./pose_data/ACCAD/Male2Walking_c3d/B18 -  Walk to leap to walk_poses.npy,0,58,004808.npy
+./pose_data/ACCAD/Male2Walking_c3d/B13 -  Walk turn right 90_poses.npy,0,113,004811.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G2 - Sidekick leading left_poses.npy,0,56,004864.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G8 -  roundhouse left_poses.npy,0,52,004914.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G17-  push kick left_poses.npy,0,91,004993.npy
+./pose_data/ACCAD/Female1Running_c3d/C22 -  run with box_poses.npy,0,40,005114.npy
+./pose_data/ACCAD/Female1Walking_c3d/B7 - walk backwards turn forwards_poses.npy,0,174,005161.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E11 - backfist left_poses.npy,0,47,005216.npy
+./pose_data/ACCAD/Male2Running_c3d/C16 - run turn right 135_poses.npy,0,64,005217.npy
+./pose_data/ACCAD/Female1General_c3d/A11 - crawl forward_poses.npy,8,208,005259.npy
+./pose_data/ACCAD/Male2Walking_c3d/B18 -  Walk to leap to walk t2_poses.npy,0,95,005372.npy
+./pose_data/ACCAD/Female1General_c3d/A4 - look_poses.npy,166,366,005374.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E13 - block right high_poses.npy,0,62,005401.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D1 - Urban 1_poses.npy,16,216,005534.npy
+./pose_data/ACCAD/Male1General_c3d/General A8 -  Crourch to Lie (forward)_poses.npy,0,132,005572.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D13 -crouch to ready_poses.npy,0,76,005662.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D8 - bow to ready_poses.npy,0,86,005815.npy
+./pose_data/ACCAD/Female1Walking_c3d/B1 - stand to walk_poses.npy,0,125,005857.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B23 - Side step right_poses.npy,0,72,005860.npy
+./pose_data/ACCAD/Male2General_c3d/A3- Swing arms_poses.npy,22,214,005927.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E7 - super fast advance_poses.npy,0,85,005975.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D7 - walk to bow_poses.npy,0,142,006005.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 1_poses.npy,249,402,006008.npy
+./pose_data/ACCAD/Male2General_c3d/A4- Look Around_poses.npy,158,321,006011.npy
+./pose_data/ACCAD/Female1Gestures_c3d/Female1 Subj Calibration_poses.npy,0,60,006084.npy
+./pose_data/ACCAD/Female1Walking_c3d/B20 - walk with box_poses.npy,0,86,006114.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B22 - Side step left_poses.npy,0,93,006184.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G9-  roundhouse right t2_poses.npy,0,57,006277.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 3_poses.npy,385,585,006375.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G18-  push kick right_poses.npy,0,58,006399.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G3 - Sidekick leading right_poses.npy,0,40,006491.npy
+./pose_data/ACCAD/Female1General_c3d/A2 - Sway t2_poses.npy,94,294,006559.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E2 -  Jab right_poses.npy,0,57,006584.npy
+./pose_data/ACCAD/Female1Walking_c3d/B17 - walk to hop to walk1_poses.npy,0,126,006611.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D5 - Random Stuff 2_poses.npy,22,222,006612.npy
+./pose_data/ACCAD/Female1General_c3d/A3 - Swing_poses.npy,19,219,006641.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E9 - side step left_poses.npy,0,46,006666.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E16 - block right middle_poses.npy,0,50,006712.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D1 - stand to ready_poses.npy,0,59,006718.npy
+./pose_data/ACCAD/Female1Running_c3d/C6 - stand to run backwards_poses.npy,0,150,006748.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D2 - Wait 1_poses.npy,605,771,006969.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E4 -  cross right_poses.npy,0,49,006996.npy
+./pose_data/ACCAD/Female1Running_c3d/C4 - Run to walk1_poses.npy,0,71,007057.npy
+./pose_data/ACCAD/Female1General_c3d/A12 - crawl backwards_poses.npy,7,207,007089.npy
+./pose_data/ACCAD/Male2Running_c3d/C1 - stand to run_poses.npy,0,82,007110.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B17 - Walk 2 hop 2 walk_poses.npy,0,164,007321.npy
+./pose_data/ACCAD/Male1General_c3d/General A2 - Sway_poses.npy,0,181,007361.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 1_poses.npy,112,312,007440.npy
+./pose_data/ACCAD/s008/Run1_poses.npy,0,37,007538.npy
+./pose_data/ACCAD/Male2General_c3d/A7- Crouch_poses.npy,0,89,007592.npy
+./pose_data/ACCAD/Male2General_c3d/male2 Calibration_poses.npy,0,60,007645.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E20 - dodge right_poses.npy,0,56,007676.npy
+./pose_data/ACCAD/Female1Walking_c3d/B25 - crouch to walk1_poses.npy,0,119,007703.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D1 - Urban 1_poses.npy,83,283,007832.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E5 -  hook left_poses.npy,0,55,007879.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G9 -  roundhouse right_poses.npy,0,36,007895.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G6 -  axe kick_poses.npy,0,58,007907.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G19-  reverse spin cresent left_poses.npy,0,65,007962.npy
+./pose_data/ACCAD/s011/walkdog_poses.npy,191,326,008023.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 3_poses.npy,26,226,008105.npy
+./pose_data/ACCAD/Female1Running_c3d/C21 -  run to pick up box_poses.npy,0,97,008208.npy
+./pose_data/ACCAD/Female1Running_c3d/C15 -  run turn right  (45)_poses.npy,0,43,008309.npy
+./pose_data/ACCAD/Female1Running_c3d/C3 - Run_poses.npy,0,34,008353.npy
+./pose_data/ACCAD/Male2Walking_c3d/B19 -  Walk to pickup box_poses.npy,0,134,008463.npy
+./pose_data/ACCAD/Female1Running_c3d/C20 -  run to jump to walk_poses.npy,0,80,008541.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D16 - switch stance and bounce_poses.npy,0,98,008677.npy
+./pose_data/ACCAD/Male2Walking_c3d/B21 -  put down box to walk_poses.npy,0,111,008706.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 2_poses.npy,23,223,008811.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E14 - body cross right_poses.npy,0,49,008888.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D2 - Wait 1_poses.npy,6,206,008902.npy
+./pose_data/ACCAD/s009/Sprint1_poses.npy,0,45,008976.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G19-  reverse spin cresent left t2_poses.npy,0,64,008998.npy
+./pose_data/ACCAD/Female1Walking_c3d/B16 - walk turn change direction_poses.npy,5,205,009049.npy
+./pose_data/ACCAD/Female1Running_c3d/C5 - walk to run_poses.npy,0,109,009303.npy
+./pose_data/ACCAD/Male1General_c3d/General A11 -   Military Crawl Forward_poses.npy,24,213,009349.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E10 - body hook right_poses.npy,0,50,009411.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E10 - side step right_poses.npy,0,39,009414.npy
+./pose_data/ACCAD/Female1Running_c3d/C27 - crouch to run1_poses.npy,0,65,009436.npy
+./pose_data/ACCAD/Female1Running_c3d/C8 -  run backwards to stand_poses.npy,0,89,009446.npy
+./pose_data/ACCAD/Male2Running_c3d/C7 - run backwards t2_poses.npy,0,65,009613.npy
+./pose_data/ACCAD/Male2General_c3d/A11- Crawl_poses.npy,17,217,009691.npy
+./pose_data/ACCAD/Female1Gestures_c3d/D6- CartWheel_poses.npy,0,96,009702.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E1 - Turn around right_poses.npy,94,287,009709.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E22 - duck right_poses.npy,0,51,009725.npy
+./pose_data/ACCAD/Male2General_c3d/A1- Stand_poses.npy,0,77,009765.npy
+./pose_data/ACCAD/Female1General_c3d/A14 - stand to skip_poses.npy,0,103,009767.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E16 - body jab left_poses.npy,0,51,009781.npy
+./pose_data/ACCAD/Male2Running_c3d/C25 - quick sidestep right_poses.npy,0,41,009804.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D9 - t2 - male2 blanks_poses.npy,0,117,009868.npy
+./pose_data/ACCAD/Male2Walking_c3d/B27 -  skip to walk a_poses.npy,0,92,009882.npy
+./pose_data/ACCAD/Female1General_c3d/A11 - crawl forward_poses.npy,141,341,009914.npy
+./pose_data/ACCAD/Male2Running_c3d/C23 - put down box to run_poses.npy,0,65,009968.npy
+./pose_data/ACCAD/Female1Walking_c3d/B12 - walk turn right (90)_poses.npy,0,156,010091.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E21 - duck left_poses.npy,0,55,010221.npy
+./pose_data/ACCAD/Male2Walking_c3d/B14 -  Walk turn right 45 t2_poses.npy,0,116,010231.npy
+./pose_data/ACCAD/Male2Running_c3d/C11 - run turn left 90_poses.npy,0,57,010343.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E2 - Turn around left_poses.npy,14,214,010367.npy
+./pose_data/ACCAD/Male2Walking_c3d/B4 - Stand to Walk backwards_poses.npy,0,93,010494.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B16 - Walk turn change_poses.npy,14,214,010569.npy
+./pose_data/ACCAD/Male1General_c3d/General A6 - Lift Box_poses.npy,0,99,010612.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E15 - block left middle_poses.npy,0,47,010662.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E19 - dodge left t2_poses.npy,0,52,010692.npy
+./pose_data/ACCAD/Male2Walking_c3d/B5 -  Walk backwards_poses.npy,0,163,010739.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B15 - Walk turn around_poses.npy,21,221,010769.npy
+./pose_data/ACCAD/Female1Walking_c3d/B15 - walk turn around (same direction)_poses.npy,9,209,010851.npy
+./pose_data/ACCAD/Male2Walking_c3d/B26 -  walk to skip_poses.npy,0,118,010916.npy
+./pose_data/ACCAD/Female1Walking_c3d/B10 - walk turn left (45)_poses.npy,0,159,010988.npy
+./pose_data/ACCAD/Male2Walking_c3d/B17 -  Walk to hop to walk_poses.npy,0,110,011040.npy
+./pose_data/ACCAD/Female1Running_c3d/C14 -  run turn right  (90)_poses.npy,0,86,011105.npy
+./pose_data/ACCAD/s011/walkdog_poses.npy,2,202,011122.npy
+./pose_data/ACCAD/Male1Running_c3d/Run C25 - quick side step right_poses.npy,0,67,011200.npy
+./pose_data/ACCAD/Female1Running_c3d/C24 -  side step left_poses.npy,0,80,011217.npy
+./pose_data/ACCAD/Male2Running_c3d/C9 - run backwards turn run forward_poses.npy,0,72,011232.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 2_poses.npy,171,355,011369.npy
+./pose_data/ACCAD/s007/QkWalk1_poses.npy,0,52,011414.npy
+./pose_data/ACCAD/Male1General_c3d/General A2 - Sway t2_poses.npy,0,188,011533.npy
+./pose_data/ACCAD/Male1General_c3d/General A5 - Pick Up Box_poses.npy,0,94,011629.npy
+./pose_data/ACCAD/Female1Walking_c3d/B18 - walk to leap to walk_poses.npy,0,114,011658.npy
+./pose_data/ACCAD/Female1General_c3d/A5 - pick up box_poses.npy,0,126,011672.npy
+./pose_data/ACCAD/Male2Running_c3d/C13 - run turn left 135_poses.npy,0,62,011752.npy
+./pose_data/ACCAD/s001/EricCamper04_poses.npy,15,215,011814.npy
+./pose_data/ACCAD/Male2General_c3d/A6- Box lift_poses.npy,3,203,011818.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E1 -  Jab left_poses.npy,0,67,011879.npy
+./pose_data/ACCAD/Female1Walking_c3d/B21 - put down box to walk_poses.npy,0,189,011935.npy
+./pose_data/ACCAD/Female1Walking_c3d/B2 - walk to stand_poses.npy,0,114,011977.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D2 - walk to ready_poses.npy,0,88,012055.npy
+./pose_data/ACCAD/Female1General_c3d/A9 - lie t2_poses.npy,0,158,012131.npy
+./pose_data/ACCAD/Female1Walking_c3d/B23 - side step right_poses.npy,0,167,012199.npy
+./pose_data/ACCAD/Female1General_c3d/A4 - look_poses.npy,6,206,012291.npy
+./pose_data/ACCAD/Male2Walking_c3d/B22 -  side step left_poses.npy,0,50,012367.npy
+./pose_data/ACCAD/Male2Running_c3d/C14 - run turn right 90_poses.npy,0,64,012370.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G16-  double kick_poses.npy,0,80,012416.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 3_poses.npy,849,1049,012452.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D3 - run to ready_poses.npy,0,53,012565.npy
+./pose_data/ACCAD/Female1General_c3d/A12 - crawl backwards_poses.npy,179,379,012633.npy
+./pose_data/ACCAD/Female1Running_c3d/C25 -  side step right_poses.npy,0,86,012637.npy
+./pose_data/ACCAD/Male2Walking_c3d/B17 -  Walk to hop to walk a_poses.npy,0,110,012653.npy
+./pose_data/ACCAD/Male1General_c3d/General A2 - Sway t3_poses.npy,0,195,012654.npy
+./pose_data/ACCAD/Male1General_c3d/General A12 -   Military Crawl Backwards_poses.npy,14,214,012686.npy
+./pose_data/ACCAD/Female1General_c3d/A8 - crouch to lie_poses.npy,0,129,012700.npy
+./pose_data/ACCAD/Male2General_c3d/A11- Crawl_poses.npy,119,267,012727.npy
+./pose_data/ACCAD/Male2Walking_c3d/B11 -  Walk turn left 135_poses.npy,0,130,012730.npy
+./pose_data/ACCAD/Female1Walking_c3d/B21 s3 - put down box to walk_poses.npy,6,206,012824.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Form 1_poses.npy,21,221,012883.npy
+./pose_data/ACCAD/Female1General_c3d/A10 - lie to crouch_poses.npy,0,88,012922.npy
+./pose_data/ACCAD/Male2Running_c3d/C26 - run to crouch_poses.npy,0,48,012965.npy
+./pose_data/ACCAD/Female1Walking_c3d/B6 - walk backwards to stand_poses.npy,0,164,012985.npy
+./pose_data/ACCAD/Male2Walking_c3d/B21 -  put down box to walk a_poses.npy,0,111,012996.npy
+./pose_data/ACCAD/Male2Running_c3d/C20 - run to pickup box_poses.npy,0,59,013003.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B10 - Walk turn left 45_poses.npy,0,169,013036.npy
+./pose_data/ACCAD/Female1Running_c3d/C26 -  run to crouch_poses.npy,0,60,013037.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E11 - block left high_poses.npy,0,54,013071.npy
+./pose_data/ACCAD/Female1General_c3d/A2 - Sway t2_poses.npy,27,227,013261.npy
+./pose_data/ACCAD/Male1General_c3d/General A7 - Crouch_poses.npy,0,120,013262.npy
+./pose_data/ACCAD/Male1Running_c3d/Run C24 - quick side step left_poses.npy,0,60,013267.npy
+./pose_data/ACCAD/Female1Walking_c3d/B13 - walk turn right (45)_poses.npy,0,167,013336.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E14 - body cross left t2_poses.npy,0,44,013344.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E1 - Turn around right_poses.npy,20,220,013362.npy
+./pose_data/ACCAD/Male2MartialArtsKicks_c3d/G3 - front kick_poses.npy,0,47,013471.npy
+./pose_data/ACCAD/Male2Running_c3d/C18 - run to hop to walk_poses.npy,0,91,013515.npy
+./pose_data/ACCAD/Male2Walking_c3d/B24 -  walk to crouch_poses.npy,0,123,013582.npy
+./pose_data/ACCAD/Female1Running_c3d/C21 s2 -  run to pick up box_poses.npy,0,52,013613.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E3 - advance_poses.npy,0,128,013624.npy
+./pose_data/ACCAD/Male1Walking_c3d/Walk B13 - Walk turn right 45_poses.npy,0,186,013629.npy
+./pose_data/ACCAD/Female1General_c3d/A2 - Sway_poses.npy,19,219,013686.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E19 - dodge left_poses.npy,0,45,013713.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D14 -ready to crouch_poses.npy,0,67,013728.npy
+./pose_data/ACCAD/Male2General_c3d/A2- Sway_poses.npy,6,206,013759.npy
+./pose_data/ACCAD/Female1Walking_c3d/B27 -skip to walk1_poses.npy,0,135,013928.npy
+./pose_data/ACCAD/Male1General_c3d/General A12 -   Military Crawl Backwards_poses.npy,116,316,013999.npy
+./pose_data/ACCAD/Male2Walking_c3d/B14 -  Walk turn right 45_poses.npy,0,82,014035.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D9 - warm up to ready to warm up_poses.npy,0,174,014048.npy
+./pose_data/ACCAD/Male2Walking_c3d/B20 -  Walk with box_poses.npy,0,129,014059.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E8 - bounce_poses.npy,0,151,014071.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E6 -  hook right_poses.npy,0,52,014074.npy
+./pose_data/ACCAD/Female1Walking_c3d/B24 - walk to crouch_poses.npy,0,142,014081.npy
+./pose_data/ACCAD/s001/EricCamper04_poses.npy,102,302,014114.npy
+./pose_data/ACCAD/Male2MartialArtsPunches_c3d/E9 - body hook left_poses.npy,0,55,014119.npy
+./pose_data/ACCAD/MartialArtsWalksTurns_c3d/E5 - retreat_poses.npy,0,155,014136.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 3_poses.npy,494,694,014267.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Form 1_poses.npy,130,330,014342.npy
+./pose_data/ACCAD/Male2MartialArtsExtended_c3d/Extended 3_poses.npy,228,428,014400.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D4 - ready to relax_poses.npy,0,82,014478.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D11 - ready to taunt one to ready_poses.npy,0,108,014479.npy
+./pose_data/ACCAD/Male2Running_c3d/C15 - run turn right 45_poses.npy,0,63,014515.npy
+./pose_data/ACCAD/Male2MartialArtsStances_c3d/D9 - victory 1_poses.npy,19,219,014562.npy
