@@ -17,8 +17,9 @@ The motion used to extract the left knee
 - File Name: [Run1_poses.npz](example.npz)
 - Folder: s008
   
-- Poses_Data: [poses.npy](poses.npy)
+- `pose_data`: [poses.npy](poses.npy)
 - `text_data`: [example.npz](text.txt)
+- `video_data`: [run.mp4](run.mp4)
 - HumanML3D: 007568
   
 - Gender: Male
