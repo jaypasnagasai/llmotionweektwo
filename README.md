@@ -115,4 +115,4 @@ According to the [Meshcapade Wiki](https://github.com/Meshcapade/wiki/blob/main/
 
 ## CONCLUSION
 
-A major part of this week was about mapping the pose_data to the text_data. I started out to do for the entire ACCAD dataset, but due to the repetition of certain motions, I have decided to demonstrate the mapping with one example motion. The key aspect is to focus on the [challenges](CHALLENGES) and work on them. Any feedback would be appreciated. Thank You!
+A major part of this week was about mapping the pose_data to the text_data. I started out to do for the entire ACCAD dataset, but due to the repetition of certain motions, I have decided to demonstrate the mapping with one example motion. The key aspect is to focus on the [challenges](#challenges) and work on them. Any feedback would be appreciated. Thank You!
