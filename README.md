@@ -83,7 +83,11 @@ According to the [Meshcapade Wiki](https://github.com/Meshcapade/wiki/blob/main/
 ## IMPLEMENTATION
 
 1. Install NumPy to load arrays
-2. Run [main.py](main.py) to load [stand.npz](stand.npz) and get their shape/dimensions
-3. Run [extract.py](extract.py) to create [leftknee.npz](stand.npz)
-4. Run [main.py](main.py) to load [leftknee.npz](leftknee.npz)
+2. Run [extract.py](extract.py) to load [007538.npz](007538.npz) and create [007538.npy](007538.npy) for pose data
+
+## IMPLEMENTATION [OPTIONAL]
+
+1. Install NumPy to load arrays
+2. Run [main.py](main.py) to combine [007538.npy](007538.npy) & [007538.txt](007538.txt) to a `.h5` file
+3. Run [read.py](read.py) to load [007538.h5](l007538.h5)
 
