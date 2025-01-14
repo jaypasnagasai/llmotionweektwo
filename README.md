@@ -14,9 +14,13 @@ The dataset the motion data has been extracted from
 ## EXAMPLE MOTION
 The motion used to extract the left knee
 
-- File Name: [Run1_poses.npz](007538.npz)
-- Poses_Data: [007538.npy](007538.npy)
-- Text_Data: [007538.npz](007538.txt)
+- File Name: [Run1_poses.npz](example.npz)
+- Folder: s008
+  
+- Poses_Data: [poses.npy](poses.npy)
+- Text_Data: [example.npz](text.txt)
+- HumanML3D: 007568
+  
 - Gender: Male
 - Frame Rate: 120 fps
 - Video Duration: 1.8 s
@@ -80,14 +84,35 @@ According to the [Meshcapade Wiki](https://github.com/Meshcapade/wiki/blob/main/
     50: 'right_thumb2',
     51: 'right_thumb3'
 ```
+
+## NOTE
+
+- The text descriptions are is form the [HumanML3D](https://github.com/EricGuo5513/HumanML3D/tree/main/HumanML3D) dataset
+- The mapping of the pose_data to the text_data is through using the [index](https://github.com/EricGuo5513/HumanML3D/blob/main/index.csv) of the dataset
+
 ## IMPLEMENTATION
 
 1. Install NumPy to load arrays
-2. Run [extract.py](extract.py) to load [007538.npz](007538.npz) and create [007538.npy](007538.npy) for pose data
+2. Run [extract.py](extract.py) to load [example.npz](example.npz) and create [poses.npy](poses.npy) for pose data
 
 ## IMPLEMENTATION [OPTIONAL]
 
 1. Install NumPy to load arrays
-2. Run [main.py](main.py) to combine [007538.npy](007538.npy) & [007538.txt](007538.txt) to a `.h5` file
-3. Run [read.py](read.py) to load [007538.h5](l007538.h5)
+2. Run [main.py](main.py) to combine [poses.npy](poses.npy) & [text.txt](text.txt) to a `.h5` file
+3. Run [read.py](read.py) to load [motion.h5](motion.h5)
 
+## PROGRESS
+
+- Since it is possible to map pose_data and text_data to one file, it is replicable to the dataset.
+- While I have used a more rudimentary approach to extract pose_data, the [HumanML3D](https://github.com/EricGuo5513/HumanML3D/tree/main/HumanML3D) repo has a Jupyter Notebook which can do this more efficiently.
+- The next step is to able to set up the pose_data from all the datasets
+
+## CHALLENGES
+
+1. The data is in 3D Arrays. Finetuning array files directly could be ineffective since LLMs are inclined to deal with structured data (CSV/JSON). Hence, the most basic approach would be to flatten the data. But, I am unsure of how effective it will be.
+2. Some motions have multiple text descriptions, hence it is important to be cognizant of them. Luckily, the Jupyter notebook should help us in the files processing. So, replicating the notebook should be ideal.
+3. The HumanML3D dataset does not have text descriptions for the more recent AMASS datasets. So, if we are certain that the existent data is suffient, we can go ahead.
+
+## CONCLUSION
+
+A major part of this week was about mapping the pose_data to the text_data. I started out to do for the entire ACCAD dataset, but due to the repetition of certain motions, I have decided to demonstrate the mapping with one example motion. The key aspect is to focus on the [challenges](CHALLENGES) and work on them. Any feedback would be appreciated. Thank You!
